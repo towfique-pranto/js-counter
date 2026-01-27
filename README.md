@@ -13,7 +13,7 @@ For each project, I follow this process:
 1. Find a small project or demo
 2. **Do NOT copy the code**
 3. Build the project **entirely on my own**
-4. Compare my implementation with the tutorial afterward
+4. Compare my implementation
 5. Analyze differences in:
    - Logic
    - Structure
