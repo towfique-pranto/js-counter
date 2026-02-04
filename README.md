@@ -1,4 +1,4 @@
-# JavaScript One Project Everyday Challenge – From Easiest to Hardest
+# JavaScript Project Challenge – From Easiest to Hardest
 
 This repository is part of a personal learning challenge.
 
